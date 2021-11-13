@@ -1,7 +1,7 @@
-[English](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine04/README.md)
+[English](README.md)
 # Chapter Ⅰ<br>Instruction
 
-- 과제 레포지토리를 fork해서 사용하세요
+- Piscine04 과제 레포지토리를 fork해서 사용하세요
 - 제출은 **main 브랜치에서 push**를 통해서 진행할 수 있습니다.
 - branch, 커밋이 꼬인 경우에는 처음부터 다시 시작해야할 수 있습니다.
 - 제출 commit 메세지는 자유롭게 작성하시면 됩니다.
@@ -24,7 +24,7 @@
 
 <br>
 
-![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/p04example.png?raw=true)
+![](../assets/p04example.png)
 
 - 위 그림과 같은 형태의 git graph를 만들어 보세요
 - `main` 브랜치에서 `dev` 브랜치를 만듭니다.

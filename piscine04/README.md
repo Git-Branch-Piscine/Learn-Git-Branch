@@ -1,4 +1,4 @@
-[한국어](https://github.com/euiminnn/Learn-Git-Branch/blob/main/piscine04/README.kr.md)
+[한국어](README.kr.md)
 # Chapter Ⅰ<br>Instruction
 
 - Fork the Piscine04 repository.
@@ -24,7 +24,7 @@
 
 <br>
 
-![](https://github.com/euiminnn/Learn-Git-Branch/blob/main/assets/p04example.png?raw=true)
+![](../assets/p04example.png)
 
 - Create a git graph same as the above.
 - Make a `dev` branch from the `main` branch.
