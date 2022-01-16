@@ -16,7 +16,6 @@
 4. [Branch Piscine 03](./piscine03/README.kr.md)
 5. [Branch Piscine 04](./piscine04/README.kr.md)
 6. [Branch Piscine 05](./piscine05/README.kr.md)
-7. [Branch Piscine 06](./piscine06/README.kr.md)
 
 ## 👨‍🏫 만든 사람
 <br/>
